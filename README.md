@@ -23,7 +23,7 @@ The idea of this project is to do an experiment using A/B testing to test whethe
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 exploratory notebook available here to showcase work related to the above test A/B. 
+There is one exploratory notebook (AB_test.ipynb) available here to show the work related to A/B testing detailed above. 
 
 ## Results<a name="results"></a>
 
